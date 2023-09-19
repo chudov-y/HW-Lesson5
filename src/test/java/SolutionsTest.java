@@ -7,7 +7,7 @@ import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selectors.byTagAndText;
 import static com.codeborne.selenide.Selenide.*;
 
-public class TestSolutions {
+public class SolutionsTest {
 
     @BeforeAll
     static void beforeAll() {
